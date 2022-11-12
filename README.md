@@ -9,6 +9,7 @@ You can share some of the programming facts about any of your favourite programm
 ### JavaScript: 
   1. In JavaScript, NaN (Not a number) is also a valid number!
   2. In JavaScript, NaN is not equal to anything, not even to itself!
+  3. Javascript is not "java",i repeat it's not java.
   
   
 ## Jokes
