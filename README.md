@@ -16,4 +16,8 @@ You can share some of the programming facts about any of your favourite programm
 
 ### JavaScript:
   1. When a JavaScript date has gone bad, "Don't call me, I'll callback you. I promise!"
-  2. You have a lifetime short to complete the full javascript.
+
+  2. "Why was the JavaScript developer sad?",
+              "Because they didn't Node how to Express themself!"
+              
+  3. You have a lifetime short to complete the full javascript.
