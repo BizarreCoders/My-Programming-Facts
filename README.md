@@ -11,6 +11,8 @@ You can share some of the programming facts about any of your favourite programm
   2. In JavaScript, NaN is not equal to anything, not even to itself!
   3. Javascript is not "java",i repeat it's not java.
   
+### C++:
+  
   
 ## Jokes
 
