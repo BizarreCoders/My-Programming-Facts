@@ -10,6 +10,7 @@ You can share some of the programming facts about any of your favourite programm
   1. In JavaScript, NaN (Not a number) is also a valid number!
   2. In JavaScript, NaN is not equal to anything, not even to itself!
   3. Javascript is not "java",i repeat it's not java.
+  4. the maximum value of a numeric type that Javascript can hold is just: 9007199254740991
   
 ### C++:
   
