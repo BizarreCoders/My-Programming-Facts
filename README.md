@@ -24,3 +24,7 @@ You can share some of the programming facts about any of your favourite programm
               "Because they didn't Node how to Express themself!"
               
   3. You have a lifetime short to complete the full javascript.
+
+
+### C++
+  1. C and a C++ walk into a bar. The C spilled his beer all over the C++'s shirt. Outraged, C++ shouted, "Good god, man! Have you no class?
