@@ -27,4 +27,4 @@ You can share some of the programming facts about any of your favourite programm
 
 
 ### C++
-  1. C and a C++ walk into a bar. The C spilled his beer all over the C++'s shirt. Outraged, C++ shouted, "Good god, man! Have you no class?
+  1. C and a C++ walk into a bar. The C spilled his water all over the C++'s shirt. Outraged, C++ shouted, "Good god, man! Have you no class?
